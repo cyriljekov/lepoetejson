@@ -1,0 +1,2491 @@
+{
+  "citations": [
+    {
+                "auteur": "Albert Camus",
+                "phrase": "La pensée d'un homme est avant tout .......",
+                "mot1": "son imagination",
+                "mot2": "sa nostalgie",
+                "mot3": "son instinct",
+                "reponse": "sa nostalgie"
+    },
+    {
+                "auteur": "Martin Heidegger",
+                "phrase": "Marcher vers ......., rien d'autre",
+                "mot1": "l'amour",
+                "mot2": "la gloire",
+                "mot3": "une étoile",
+                "reponse": "une étoile"
+                
+    },
+    {
+                "auteur": "Albert Camus",
+                "phrase": "Qu'est-ce que ....... sinon l'accord vrai entre un homme et l'existence qu'il mène ?",
+                "mot1": "le bohneur",
+                "mot2": "la malheur",
+                "mot3": "l'espoir",
+                "reponse": "le bohneur"
+    },
+    {
+                "auteur": "Albert Camus",
+                "phrase": "Il n'y a qu'une façon de s'égaler aux dieux : il suffit d'être aussi ....... qu'eux.",
+                "mot1": "bon",
+                "mot2": "intélligent",
+                "mot3": "cruel",
+                "reponse": "cruel"
+    },
+    {
+                "auteur": "Albert Camus",
+                "phrase": "Comprendre c'est avant tout .......",
+                "mot1": "croire",
+                "mot2": "classer",
+                "mot3": "unifier",
+                "reponse": "unifier"
+    },
+    {
+                "auteur": "Albert Camus",
+                "phrase": "L'agonie serait légère si elle n'était soutenue par l'espoir éternel. Pour que le dieu soit un homme, il faut qu'il ........",
+                "mot1": "désespère",
+                "mot2": "chante",
+                "mot3": "se batte",
+                "reponse": "désespère"
+    },
+    {
+                "auteur": "Albert Camus",
+                "phrase": "Tout ce que je sais de plus sûr à propos de la moralité et des obligations des hommes, c'est  ........ que je le dois.",
+                "mot1": "au football",
+                "mot2": "à la philosophie",
+                "mot3": "à l'école",
+                "reponse": "au football"
+    }
+                ,
+    
+                {
+                "auteur": "Albert Camus",
+                "phrase": "........ des hommes est souvent la marque d'un coeur vulgaire.",
+                "mot1": "Le mépris",
+                "mot2": "La colère",
+                "mot3": "Le désespoir",
+                "reponse": "Le mépris"
+                },
+                {
+                "auteur": "Albert Camus",
+                "phrase": "Celui qui désespère des événements est un lâche, mais celui qui espère en la condition humaine est .........",
+                "mot1": "un humaniste",
+                "mot2": "un fou",
+                "mot3": "un pessimiste",
+                "reponse": "un fou"
+                },
+                {
+                "auteur": "Albert Camus",
+                "phrase": "........., c'est la raison lucide qui constate ses limites.",
+                "mot1": "L'amour",
+                "mot2": "Le cauchemar",
+                "mot3": "L'absurde",
+                "reponse": "L'absurde"
+                },
+                {
+                "auteur": "Albert Camus",
+                "phrase": "Mal ......... les choses, c'est ajouter au malheur du monde.",
+                "mot1": "nommer",
+                "mot2": "comprendre",
+                "mot3": "voir",
+                "reponse": "nommer"
+                },
+                {
+                "auteur": "Albert Camus",
+                "phrase": "La société politique contemporaine : une machine à ......... les hommes.",
+                "mot1": "aimer",
+                "mot2": "désespérer",
+                "mot3": "valoriser",
+                "reponse": "désespérer"
+                },
+                {
+                "auteur": "Albert Camus",
+                "phrase": "Nous finissons toujours par avoir le visage de ..........",
+                "mot1": "notre âge",
+                "mot2": "de Dieu",
+                "mot3": "nos vérités",
+                "reponse": "nos vérités"
+                },
+                {
+                "auteur": "Albert Camus",
+                "phrase": "Une certaine continuité dans le désespoir peut engendrer .........",
+                "mot1": "la joie",
+                "mot2": "l'espoir",
+                "mot3": "l'amour",
+                "reponse": "la joie"
+                },
+                {
+                "auteur": "Albert Camus",
+                "phrase": "Nul homme n'est hypocrite dans ses ..........",
+                "mot1": "choix",
+                "mot2": "plaisirs",
+                "mot3": "désirs",
+                "reponse": "plaisirs"
+                },
+                {
+                "auteur": "Albert Camus",
+                "phrase": "Dans l'univers du ........., la mort exalte l'injustice. Elle est le suprême abus.",
+                "mot1": "prisonnier",
+                "mot2": "désespéré",
+                "mot3": "révolté",
+                "reponse": "révolté"
+                },
+                {
+                "auteur": "Albert Camus",
+                "phrase": "......... est la dernière richesse des pauvres.",
+                "mot1": "L'honneur",
+                "mot2": "Le pain",
+                "mot3": "Le sang",
+                "reponse": "L'honneur"
+                },
+                {
+                "auteur": "Albert Camus",
+                "phrase": "........., pourquoi le refuser ? En l'acceptant, on n'aggrave pas le malheur des autres et même ça aide à lutter pour eux.",
+                "mot1": "L'argent",
+                "mot2": "Le bonheur",
+                "mot3": "Le pouvoir",
+                "reponse": "Le bonheur"
+                },
+                {
+                "auteur": "Albert Camus",
+                "phrase": "......... insiste toujours.",
+                "mot1": "La vérité",
+                "mot2": "Le mensonge",
+                "mot3": "La bêtise",
+                "reponse": "La bêtise"
+                },
+                {
+                "auteur": "Albert Camus",
+                "phrase": "La vérité jaillira de l'apparente .........",
+                "mot1": "injustice",
+                "mot2": "victoire",
+                "mot3": "justice",
+                "reponse": "injustice"
+                },
+                {
+                "auteur": "Albert Camus",
+                "phrase": "Si le monde était ........., l'art ne serait pas.",
+                "mot1": "beau",
+                "mot2": "clair",
+                "mot3": "ambigu",
+                "reponse": "clair"
+                },
+                {
+                "auteur": "Albert Camus",
+                "phrase": "Parler de ce qu'on ignore finit par vous .........",
+                "mot1": "rendre fou",
+                "mot2": "humilier",
+                "mot3": "l'apprendre",
+                "reponse": "l'apprendre"
+                },
+                {
+                "auteur": "Albert Camus",
+                "phrase": "La ......... consiste à aimer un homme qui n'existe pas encore",
+                "mot1": "révolution",
+                "mot2": "démocratie",
+                "mot3": "république",
+                "reponse": "révolution"
+                },
+                {
+                "auteur": "William Shakespeare",
+                "phrase": "......... est un monstre qui s'engendre lui-même et naît de ses propres entrailles.",
+                "mot1": "le mensonge",
+                "mot2": "la jalousie",
+                "mot3": "la trahison",
+                "reponse": "la jalousie"
+                }
+                
+                ,
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "L'étrangeté est le condiment nécessaire de toute .........",
+                "mot1": "dame",
+                "mot2": "chanson",
+                "mot3": "beauté",
+                "reponse": "beauté"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "O douleur ! O douleur ! ......... mange la vie, Et l'obscur Ennemi qui nous ronge le coeur Du sang que nous perdons croît et se fortifie !",
+                "mot1": "le Temps",
+                "mot2": "le malheur",
+                "mot3": "la lumière",
+                "reponse": "le Temps"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "......... ! Dieu sinistre, effrayant, impassible, Dont le doigt nous menace et nous dit : Souviens-toi !",
+                "mot1": "La forêt",
+                "mot2": "Horloge",
+                "mot3": "Le ciel",
+                "reponse": "Horloge"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "Aimer les femmes intelligentes est un plaisir de .........",
+                "mot1": "d'imbécile",
+                "mot2": "gentleman",
+                "mot3": "pédéraste",
+                "reponse": "pédéraste"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "La femme est ........., c'est-à-dire abominable.",
+                "mot1": "naturelle",
+                "mot2": "menteuse",
+                "mot3": "belle",
+                "reponse": "naturelle"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "Plus l'homme cultive les arts, moins .........",
+                "mot1": "il vit",
+                "mot2": "il bande",
+                "mot3": "il chante",
+                "reponse": "il bande"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "Rien n'égale en longueur les boiteuses journées, Quand sous les lourds flocons des neigeuses années ......... fruit de la morne incuriosité, Prend les proportions de l'immortalité.",
+                "mot1": "la tristesse",
+                "mot2": "la tendresse",
+                "mot3": "l'ennui",
+                "reponse": "l'ennui"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "......... ! Couvercle noir de la grande marmite Où bout l'imperceptible et vaste Humanité.",
+                "mot1": "Le Ciel",
+                "mot2": "L’arbre",
+                "mot3": "Le toit ",
+                "reponse": "Le Ciel"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "Les vrais voyageurs sont ceux-là qui partent pour .........",
+                "mot1": "nulle-part",
+                "mot2": "partir",
+                "mot3": "toujours",
+                "reponse": "partir"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "Peu d'hommes ont le droit de régner, car peu d'hommes ont une grande .........",
+                "mot1": "puissance",
+                "mot2": "intelligence",
+                "mot3": "passion",
+                "reponse": "passion"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "......... est le seul être qui, pour régner, n'ait même pas besoin d'exister.",
+                "mot1": "Dieu",
+                "mot2": "Satan",
+                "mot3": "L'amour",
+                "reponse": "Dieu"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "La plus belle des ruses ......... est de vous persuader qu'il n'existe pas.",
+                "mot1": "de dieu",
+                "mot2": "du diable",
+                "mot3": "du riche",
+                "reponse": "du diable"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "Le poète est semblable au prince des nuées. Ses ailes de géant l'empêchent de .........",
+                "mot1": "voler",
+                "mot2": "parler",
+                "mot3": "marcher",
+                "reponse": "marcher"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "On peut chercher dans Dieu le complice et l'ami qui manquent toujours. Dieu est l'éternel confident dans cette ......... dont chacun est le héros.",
+                "mot1": "tragédie",
+                "mot2": "histoire",
+                "mot3": "aventure",
+                "reponse": "tragédie"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "La fidélité est un vice de .........",
+                "mot1": "riche",
+                "mot2": "pauvre",
+                "mot3": "prince",
+                "reponse": "pauvre"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "Tout homme qui n'accepte pas les conditions de la vie, vend son .........",
+                "mot1": "destin",
+                "mot2": "bonheur",
+                "mot3": "âme",
+                "reponse": "âme"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "C'est par ......... que l'homme communique avec le monde ténébreux dont il est environné.",
+                "mot1": "le rêve",
+                "mot2": "le chant",
+                "mot3": "la méditation",
+                "reponse": "le rêve"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "Il n'est pas de plaisir plus doux que de surprendre un homme en lui donnant ......... qu'il n'espère.",
+                "mot1": "moins",
+                "mot2": "plus",
+                "mot3": "autant",
+                "reponse": "plus"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "Souviens-toi que ......... est un joueur avide Qui gagne sans tricher, à tout coup ! c'est la loi.",
+                "mot1": "le Seigneur",
+                "mot2": "le Ciel",
+                "mot3": "le Temps",
+                "reponse": "le Temps"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "Cette ........., sombre comme le fer, Est de celles que forge et polit l'Enfer.",
+                "mot1": "beauté",
+                "mot2": "épée",
+                "mot3": "lâcheté",
+                "reponse": "beauté"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "Plonger au fond du gouffre, Enfer ou Ciel, qu'importe ? Au fond de l'Inconnu pour trouver ......... !",
+                "mot1": "son père",
+                "mot2": "du nouveau",
+                "mot3": "la vérité",
+                "reponse": "du nouveau"
+                },
+                {
+                "auteur": "Charles Baudelaire",
+                "phrase": "Le rire est satanique, il est donc profondément ..........",
+                "mot1": "divin",
+                "mot2": "enchanteur",
+                "mot3": "humain",
+                "reponse": "humain"
+                }
+             
+                ,
+                {
+                "auteur": "Arthur Rimbaud",
+                "phrase": ".......... C'est la mer mêlée Au soleil.",
+                "mot1": "L'éternité",
+                "mot2": "La terre",
+                "mot3": "désir",
+                "reponse": "L'éternité"
+                }
+                ,
+                {
+                "auteur": "Arthur Rimbaud",
+                "phrase": ".......... ne peut attaquer les païens.",
+                "mot1": "La forêt",
+                "mot2": "L'enfer",
+                "mot3": "Le prophète",
+                "reponse": "L'enfer"
+                }
+                ,
+                {
+                "auteur": "Arthur Rimbaud",
+                "phrase": ".......... est la faiblesse de la cervelle.",
+                "mot1": "L'ivresse",
+                "mot2": "L’inconscient",
+                "mot3": "La morale",
+                "reponse": "La morale"
+                }
+                ,
+                {
+                "auteur": "Arthur Rimbaud",
+                "phrase": "Un soir, j'ai assis la Beauté sur mes genoux. - Et je l'ai trouvée ..........",
+                "mot1": "amère",
+                "mot2": "magnifique",
+                "mot3": "drôle",
+                "reponse": "amère"
+                }
+                ,
+                {
+                "auteur": "Arthur Rimbaud",
+                "phrase": "La vision de la justice est le plaisir .......... seul.",
+                "mot1": "du Diable",
+                "mot2": "de Dieu",
+                "mot3": "du juge",
+                "reponse": "de Dieu"
+                }
+                ,
+                {
+                "auteur": "Arthur Rimbaud",
+                "phrase": "La vie fleurit par ..........",
+                "mot1": "l'amour",
+                "mot2": "le temps",
+                "mot3": "le travail",
+                "reponse": "le travail"
+                }
+                ,
+                {
+                "auteur": "Arthur Rimbaud",
+                "phrase": "J'ai tendu des cordes de clocher à clocher ; des guirlandes de fenêtre à fenêtre ; des chaînes d'or d'étoile à étoile, et je ..........",
+                "mot1": "danse",
+                "mot2": "pense",
+                "mot3": "rêve",
+                "reponse": "danse"
+                }
+                ,
+                {
+                "auteur": "Paul Verlaine",
+                "phrase": ".......... luit comme un brin de paille dans l'étable.",
+                "mot1": "La nostalgie",
+                "mot2": "L'espoir",
+                "mot3": "La fée",
+                "reponse": "L'espoir"
+                }
+                ,
+                {
+                "auteur": "Paul Verlaine",
+                "phrase": "On n'offense que .......... qui seul pardonne.",
+                "mot1": "son père",
+                "mot2": "son ennemi",
+                "mot3": "Dieu",
+                "reponse": "Dieu"
+                }
+                ,
+                {
+                "auteur": "Paul Verlaine",
+                "phrase": "L'art, mes enfants, c'est d'être absolument ..........",
+                "mot1": "soi-même",
+                "mot2": "ambigu",
+                "mot3": "subtil",
+                "reponse": "soi-même"
+                }
+                ,
+                {
+                "auteur": "Paul Verlaine",
+                "phrase": "Il ne faut jamais juger les gens sur leurs fréquentations. Tenez, .........., par exemple, il avait des amis irréprochables.",
+                "mot1": "Jesus",
+                "mot2": "Judas",
+                "mot3": "Ulysse",
+                "reponse": "Judas"
+                }
+                ,
+                {
+                "auteur": "Paul Verlaine",
+                "phrase": ".......... ! Rose trémière au jardin des caresses !",
+                "mot1": "Regard",
+                "mot2": "Espoir",
+                "mot3": "Baiser",
+                "reponse": "Baiser"
+                }
+                ,
+                {
+                "auteur": "Guillaume Apollinaire",
+                "phrase": "Je chante la joie d'errer et le plaisir d'en ..........",
+                "mot1": "mourir",
+                "mot2": "pourrir",
+                "mot3": "vivre",
+                "reponse": "mourir"
+                }
+                ,
+                {
+                "auteur": "Guillaume Apollinaire",
+                "phrase": "Je veux vivre inhumain, puissant et orgueilleux Puisque je fus créé à l'image ..........",
+                "mot1": "du mieux",
+                "mot2": "de Dieu",
+                "mot3": "du Seigneur",
+                "reponse": "de Dieu"
+                }
+                ,
+                {
+                "auteur": "Guillaume Apollinaire",
+                "phrase": "L'homme est à la recherche d'un nouveau langage auquel .......... d'aucune langue n'aura rien à dire.",
+                "mot1": "le sens",
+                "mot2": "L'orthographe",
+                "mot3": "la grammaire",
+                "reponse": "la grammaire"
+                }
+                ,
+                {
+                "auteur": "Guillaume Apollinaire",
+                "phrase": "J'ai tout donné au soleil, tout, sauf ..........",
+                "mot1": "mon ombre",
+                "mot2": "mon âme",
+                "mot3": "mon coeur",
+                "reponse": "mon ombre"
+                }
+                ,
+                {
+                "auteur": "Guillaume Apollinaire",
+                "phrase": "Les feuilles Qu'on foule Un train Qui roule La vie ..........",
+                "mot1": "continue",
+                "mot2": "s'écoule",
+                "mot3": "s'embrouille",
+                "reponse": "s'écoule"
+                }
+                ,
+                {
+                "auteur": "Guillaume Apollinaire",
+                "phrase": ".......... tient souvent à l'heure que marque la pendule.",
+                "mot1": "Le destin",
+                "mot2": "La chance",
+                "mot3": "L'honneur",
+                "reponse": "L'honneur"
+                }
+                ,
+                {
+                "auteur": "Guillaume Apollinaire",
+                "phrase": ".......... est pareil à ma peine Il s'écoule et ne tarit pas.",
+                "mot1": "Le fleuve",
+                "mot2": "Le vent",
+                "mot3": "Le volcan",
+                "reponse": "Le fleuve"
+                }
+                ,
+                {
+                "auteur": "Guillaume Apollinaire",
+                "phrase": "Il est grand temps de rallumer ..........",
+                "mot1": "les arbres",
+                "mot2": "les étoiles",
+                "mot3": "les lampes",
+                "reponse": "les étoiles"
+                }
+                ,
+                {
+                "auteur": "Guillaume Apollinaire",
+                "phrase": "Mon verre s'est brisé comme un éclat ..........",
+                "mot1": "de pensé",
+                "mot2": "de tonnerre",
+                "mot3": "de rire",
+                "reponse": "de rire"
+                }
+                
+                ,
+                {
+                "auteur": "Alphonse De Lamartine",
+                "phrase": "Nos seules .........., homme, sont nos douleurs.",
+                "mot1": "vérités",
+                "mot2": "richesses",
+                "mot3": "pouvoirs",
+                "reponse": "vérités"
+                }
+                ,
+                {
+                "auteur": "Alphonse De Lamartine",
+                "phrase": "Ainsi toujours poussés vers de nouveaux rivages Dans .......... éternelle emportés sans retour, Ne pourrons-nous jamais sur l'océan des âges Jeter l'ancre un seul jour ?",
+                "mot1": "la pluie",
+                "mot2": "la nuit",
+                "mot3": "la vie",
+                "reponse": "la nuit"
+                }
+                ,
+                {
+                "auteur": "Alphonse De Lamartine",
+                "phrase": ".......... est ton navire et non pas ta demeure.",
+                "mot1": "La nuit",
+                "mot2": "La France",
+                "mot3": "La vie",
+                "reponse": "La vie"
+                }
+                ,
+                {
+                "auteur": "Alphonse De Lamartine",
+                "phrase": ".......... efface tout, tout excepté le crime.",
+                "mot1": "La gloire",
+                "mot2": "La chance",
+                "mot3": "La beauté",
+                "reponse": "La gloire"
+                }
+                ,
+                {
+                "auteur": "Alphonse De Lamartine",
+                "phrase": ".......... fut de tout temps l'asile de la gloire.",
+                "mot1": "La victoire",
+                "mot2": "La mort",
+                "mot3": "La religion",
+                "reponse": "La mort"
+                }
+                ,
+                {
+                "auteur": "Alphonse De Lamartine",
+                "phrase": "Borné dans sa nature, infini dans ses voeux, .......... est un dieu tombé qui se souvient des cieux.",
+                "mot1": "L'animal",
+                "mot2": "Lucifer",
+                "mot3": "L'homme",
+                "reponse": "L'homme"
+                }
+                ,
+                {
+                "auteur": "Alphonse De Lamartine",
+                "phrase": "Les mêmes .......... unissent mille fois plus que les mêmes joies.",
+                "mot1": "souffrances",
+                "mot2": "origines",
+                "mot3": "connaissances",
+                "reponse": "souffrances"
+                }
+
+                ,
+                {
+                "auteur": "Alphonse De Lamartine",
+                "phrase": "Pour tout peindre, il faut tout ..........",
+                "mot1": "aimer",
+                "mot2": "sentir",
+                "mot3": "admirer",
+                "reponse": "sentir"
+                }
+                ,
+                {
+                "auteur": "Alphonse De Lamartine",
+                "phrase": "Le sublime lasse, le beau trompe, le .......... seul est infaillible dans l'art.",
+                "mot1": "prix",
+                "mot2": "nom",
+                "mot3": "pathétique",
+                "reponse": "pathétique"
+                }
+                ,
+                {
+                "auteur": "Alphonse De Lamartine",
+                "phrase": "Un seul être vous manque et tout est ..........",
+                "mot1": "dépeuplé",
+                "mot2": "différent",
+                "mot3": "mort",
+                "reponse": "dépeuplé"
+                }
+                ,
+                {
+                "auteur": "Victor Hugo",
+                "phrase": ".......... a des illusions comme l'oiseau a des ailes ; c'est ce qui la soutient.",
+                "mot1": "La douleur",
+                "mot2": "L’âme",
+                "mot3": "La femme",
+                "reponse": "L’âme"
+                }
+                ,
+                {
+                "auteur": "Victor Hugo",
+                "phrase": ".......... est la fumée du bruit.",
+                "mot1": "La terreur",
+                "mot2": "La lumière",
+                "mot3": "La rumeur",
+                "reponse": "La rumeur"
+                }
+                ,
+                {
+                "auteur": "Victor Hugo",
+                "phrase": "Les verres d'eau ont les mêmes passions que ..........",
+                "mot1": "Les océans.",
+                "mot2": "Les hommes",
+                "mot3": "Les déserts",
+                "reponse": "Les océans."
+                }
+                ,
+                {
+                "auteur": "Victor Hugo",
+                "phrase": ".......... [...] est la vapeur de l'art. Elle est à la poésie ce que la rêverie est à la pensée, ce que le fluide est au liquide, ce que l'océan des nuées est à l'océan des ondes.",
+                "mot1": "La lumière",
+                "mot2": "La musique",
+                "mot3": "La couleur",
+                "reponse": "La musique"
+                }
+                ,
+                {
+                "auteur": "Victor Hugo",
+                "phrase": "Tout bruit écouté longtemps devient ..........",
+                "mot1": "une poésie",
+                "mot2": "un message",
+                "mot3": "une voix",
+                "reponse": "une voix"
+                }
+                ,
+                {
+                "auteur": "Victor Hugo",
+                "phrase": ".........., c'est le bonheur d'être triste.",
+                "mot1": "La mélancolie",
+                "mot2": "La poésie",
+                "mot3": "La nostalgie",
+                "reponse": "La mélancolie"
+                }
+                ,
+                {
+                "auteur": "Victor Hugo",
+                "phrase": "L'enfer est tout entier dans ce mot : ..........",
+                "mot1": "pauvreté",
+                "mot2": "solitude",
+                "mot3": "incompréhension",
+                "reponse": "solitude"
+                }
+                ,
+                {
+                "auteur": "Victor Hugo",
+                "phrase": "Au fond, Dieu veut que l'homme désobéisse. Désobéir, c'est ..........",
+                "mot1": "comprendre",
+                "mot2": "aimer",
+                "mot3": "chercher",
+                "reponse": "chercher"
+                }
+                ,
+                {
+                "auteur": "Victor Hugo",
+                "phrase": "On peut s'enivrer de son âme. Cette ivrognerie-là s'appelle ..........",
+                "mot1": "le sommeil",
+                "mot2": "l'alcool",
+                "mot3": "l’héroïsme",
+                "reponse": "l’héroïsme"
+                }
+                ,
+                {
+                "auteur": "Victor Hugo",
+                "phrase": "Mais être .........., ce n'est une qualité que lorsqu'on en a d'autres.",
+                "mot1": "sobre",
+                "mot2": "beau",
+                "mot3": "intelligent",
+                "reponse": "sobre"
+                }
+                ,
+                {
+                "auteur": "Victor Hugo",
+                "phrase": "Il [l'homme, NDLR] se croit roi du globe, il en est ..........",
+                "mot1": "le paysan",
+                "mot2": "le bourgeois",
+                "mot3": "le prêtre",
+                "reponse": "le bourgeois"
+                }
+                ,
+                {
+                "auteur": "Victor Hugo",
+                "phrase": "Soit dit en passant, c'est une chose assez hideuse que le succès. Sa fausse ressemblance avec .......... trompe les hommes.",
+                "mot1": "la richesse",
+                "mot2": "la chance",
+                "mot3": "le mérite",
+                "reponse": "le mérite"
+                }
+                ,
+                {
+                "auteur": "Victor Hugo",
+                "phrase": "La vérité est comme .......... . Elle fait tout voir et ne se laisse pas regarder.",
+                "mot1": "le soleil",
+                "mot2": "la forêt",
+                "mot3": "la mer",
+                "reponse": "le soleil"
+                }
+                ,
+                {
+                "auteur": "Victor Hugo",
+                "phrase": "Quand le poète peint l'enfer, il peint ..........",
+                "mot1": "sa mort",
+                "mot2": "sa vie",
+                "mot3": "son avenir",
+                "reponse": "sa vie"
+                }
+                ,
+                {
+                "auteur": "Victor Hugo",
+                "phrase": "L'insurrection confine à l'esprit, l'émeute à ..........",
+                "mot1": "la tête",
+                "mot2": "aux jambes",
+                "mot3": "l'estomac",
+                "reponse": "l'estomac"
+                }
+                ,
+                {
+                "auteur": "Victor Hugo",
+                "phrase": ".......... consiste à faire dans l'esprit des autres une petite incision où l'on met une idée à soi.",
+                "mot1": "La suggestion",
+                "mot2": "La parole",
+                "mot3": "L'écriture",
+                "reponse": "La suggestion"
+                }
+                ,
+                {
+                "auteur": "Victor Hugo",
+                "phrase": "Il est impossible d'admirer un chef-d'euvre sans éprouver en même temps une certaine ..........",
+                "mot1": "confusion",
+                "mot2": "estime de soi",
+                "mot3": "illusion",
+                "reponse": "estime de soi"
+                }
+                ,
+                {
+                "auteur": "Jacques Prévert",
+                "phrase": ".......... est enfant de nos haines.",
+                "mot1": "L'émotion",
+                "mot2": "La colère",
+                "mot3": "L'humour",
+                "reponse": "L'humour"
+                }
+                ,
+                {
+                "auteur": "Jacques Prévert",
+                "phrase": "La meilleure façon de ne pas avancer est de suivre une idée ..........",
+                "mot1": "fixe",
+                "mot2": "mouvante",
+                "mot3": "complexe",
+                "reponse": "fixe"
+                }
+                ,
+                {
+                "auteur": "Jacques Prévert",
+                "phrase": "Homme, tu as regardé la plus triste la plus morne de toutes les fleurs de la terre Et comme aux autres fleurs tu lui as donné un nom. Tu l'as appelée ..........",
+                "mot1": "Sueur",
+                "mot2": "Pensée",
+                "mot3": "Vie",
+                "reponse": "Pensée"
+                }
+                ,
+                {
+                "auteur": "Jacques Prévert",
+                "phrase": "Il y a des gens qui peuvent être ailleurs quand ils veulent, ils n'ont pas besoin d'avoir un ..........",
+                "mot1": "but",
+                "mot2": "rêve",
+                "mot3": "passeport",
+                "reponse": "passeport"
+                }
+                ,
+                {
+                "auteur": "Jean de La Fontaine",
+                "phrase": "Sur les ailes du Temps, .......... s'envole.",
+                "mot1": "La tristesse",
+                "mot2": "La morale",
+                "mot3": "La joie",
+                "reponse": "La tristesse"
+                }
+                ,
+                {
+                "auteur": "Jean de La Fontaine",
+                "phrase": "Quand l'eau courbe un bâton, .......... le redresse.",
+                "mot1": "Dieu",
+                "mot2": "ma raison",
+                "mot3": "mon corps",
+                "reponse": "ma raison"
+                }
+                ,
+                {
+                "auteur": "Jean de La Fontaine",
+                "phrase": "Longue ambassade et long voyage Aboutissent à ..........",
+                "mot1": "la connaissance",
+                "mot2": "la sagesse",
+                "mot3": "cocuage",
+                "reponse": "cocuage"
+                }
+                ,
+                {
+                "auteur": "Jean de La Fontaine",
+                "phrase": "Rien ne pèse tant qu'un secret ; Le porter loin est difficile aux dames, Et je sais même sur ce fait Bon nombre d'hommes qui sont ..........",
+                "mot1": "femmes",
+                "mot2": "d'accord",
+                "mot3": "contre",
+                "reponse": "femmes"
+                }
+                ,
+                {
+                "auteur": "Jean de La Fontaine",
+                "phrase": "Aucun chemin de fleurs ne conduit ..........",
+                "mot1": "au désespoir",
+                "mot2": "à la gloire",
+                "mot3": "au paradis",
+                "reponse": "à la gloire"
+                }
+                ,
+                {
+                "auteur": "Jean de La Fontaine",
+                "phrase": ".......... est aussi bien un remède à la haine Qu'un appareil contre l'amour.",
+                "mot1": "La cohésion",
+                "mot2": "Le confort",
+                "mot3": "L'absence",
+                "reponse": "L'absence"
+                }
+                ,
+                {
+                "auteur": "Jean de La Fontaine",
+                "phrase": "Notre âme, c'est cet homme amoureux de ..........",
+                "mot1": "lui-même",
+                "mot2": "Dieu",
+                "mot3": "l'humanité",
+                "reponse": "lui-même"
+                }
+                ,
+                {
+                "auteur": "Jean de La Fontaine",
+                "phrase": "Le plus semblable aux morts meurt le plus ..........",
+                "mot1": "tard",
+                "mot2": "à regret",
+                "mot3": "heureux",
+                "reponse": "à regret"
+                }
+                ,
+                {
+                "auteur": "Jean de La Fontaine",
+                "phrase": "L'adversaire d'une vraie liberté est un désir excessif de ...........",
+                "mot1": "foie",
+                "mot2": "connaissance",
+                "mot3": "sécurité",
+                "reponse": "sécurité"
+                }
+                ,
+                {
+                "auteur": "Jean de La Fontaine",
+                "phrase": "D'un magistrat ignorant C'est .......... qu'on salue.",
+                "mot1": "la robe",
+                "mot2": "le cœur",
+                "mot3": "l'esprit",
+                "reponse": "la robe"
+                }
+                ,
+                {
+                "auteur": "Marcel Proust",
+                "phrase": ".......... n'est-elle pas, pour qui aime, la plus certaine, la plus efficace, la plus vivace, la plus indestructible, la plus fidèle des présences ?",
+                "mot1": "La peine",
+                "mot2": "L'absence",
+                "mot3": "La femme",
+                "reponse": "L'absence"
+                }
+                ,
+                {
+                "auteur": "Marcel Proust",
+                "phrase": "Le bonheur est salutaire pour le corps, mais c'est .......... qui développe les forces de l'esprit.",
+                "mot1": "le sport",
+                "mot2": "l'amour",
+                "mot3": "le chagrin",
+                "reponse": "le chagrin"
+                }
+                ,
+                {
+                "auteur": "Marcel Proust",
+                "phrase": " Nous ne savons jamais si nous ne sommes pas en train de .......... notre vie.",
+                "mot1": "manquer",
+                "mot2": "vivre",
+                "mot3": "regretter",
+                "reponse": "manquer"
+                }
+                ,
+                {
+                "auteur": "Marcel Proust",
+                "phrase": ".......... n'est souvent qu'un inquiet besoin de tyrannie appliquée aux choses de l'amour.",
+                "mot1": "La colère",
+                "mot2": "La jalousie",
+                "mot3": "L'infifélité",
+                "reponse": "La jalousie"
+                }
+                ,
+                {
+                "auteur": "Marcel Proust",
+                "phrase": "On devient moral dès qu'on est ..........",
+                "mot1": "heureux",
+                "mot2": "instruit",
+                "mot3": "malheureux",
+                "reponse": "malheureux"
+                }
+                ,
+                {
+                "auteur": "Marcel Proust",
+                "phrase": "On ne reçoit pas .........., il faut la découvrir soi-même, après un trajet que personne ne peut faire pour nous, ne peut nous épargner.",
+                "mot1": "la sagesse",
+                "mot2": "la tendresse",
+                "mot3": "la connaissance",
+                "reponse": "la sagesse"
+                }
+                ,
+                {
+                "auteur": "Marcel Proust",
+                "phrase": "Ce qu'il y a d'admirable dans .......... des autres, c'est qu'on y croit.",
+                "mot1": "les idées",
+                "mot2": "le bonheur",
+                "mot3": "le chagrin",
+                "reponse": "le bonheur"
+                }
+                ,
+                {
+                "auteur": "Marcel Proust",
+                "phrase": "Dans l'homme le plus .........., il y a un pauvre cheval innocent qui peine.",
+                "mot1": "bête",
+                "mot2": "heureux",
+                "mot3": "méchant",
+                "reponse": "méchant"
+                }
+                ,
+                {
+                "auteur": "Marcel Proust",
+                "phrase": "Nous tenons de notre famille aussi bien les idées dont nous vivons que .......... dont nous mourrons.",
+                "mot1": "la maladie",
+                "mot2": "l'amour",
+                "mot3": "le sang",
+                "reponse": "la maladie"
+                }
+                ,
+                {
+                "auteur": "Marcel Proust",
+                "phrase": ".......... est un aussi puissant modificateur de la réalité que l'ivresse.",
+                "mot1": "La chanson",
+                "mot2": "La douleur",
+                "mot3": "La confiance",
+                "reponse": "La douleur"
+                }
+                ,
+                {
+                "auteur": "Marcel Proust",
+                "phrase": ".......... dicte le devoir et l'intelligence fournit des prétextes pour l'éluder.",
+                "mot1": "La père",
+                "mot2": "Dieu",
+                "mot3": "L'instinct",
+                "reponse": "L'instinct"
+                }
+                ,
+                {
+                "auteur": "Marcel Proust",
+                "phrase": "Le temps dont nous disposons chaque jour est élastique ; les passions que nous ressentons le dilatent, celles que nous inspirons le rétrécissent, et .......... le remplit.",
+                "mot1": "l'habitude",
+                "mot2": "l'amour",
+                "mot3": "la solitude",
+                "reponse": "l'habitude"
+                }
+                ,
+                {
+                "auteur": "Marcel Proust",
+                "phrase": ".......... est cet heureux temps où l'on devrait plutôt dire qu'on ne doute de rien plutôt que de dire qu'on n’y doute pas de soi.",
+                "mot1": "La vieillesse",
+                "mot2": "La jeunesse",
+                "mot3": "La gloire",
+                "reponse": "La jeunesse"
+                }
+                ,
+                {
+                "auteur": "Marcel Proust",
+                "phrase": "Quand on travaille pour plaire .......... on peut ne pas réussir, mais les choses qu'on a faites pour se contenter soi-même ont toujours une chance d'intéresser quelqu'un.",
+                "mot1": "à la nature",
+                "mot2": "au Seigneur",
+                "mot3": "aux autres",
+                "reponse": "aux autres"
+                }
+                ,
+                {
+                "auteur": "Marcel Proust",
+                "phrase": "Nous trouvons de tout dans .......... . Elle est une espèce de pharmacie, de laboratoire de chimie, où on met au hasard la main tantôt sur une drogue calmante, tantôt sur un poison dangereux.",
+                "mot1": "notre mémoire",
+                "mot2": "la bible",
+                "mot3": "la musique",
+                "reponse": "notre mémoire"
+                }
+                ,
+                {
+                "auteur": "Marcel Proust",
+                "phrase": "Sous toute douceur charnelle un peu profonde, il y a la permanence d'..........",
+                "mot1": "un mystère",
+                "mot2": "un danger",
+                "mot3": "une confusion",
+                "reponse": "un danger"
+                }
+                ,
+                {
+                "auteur": "Louis-Ferdinand Céline",
+                "phrase": "On ne meurt pas de dettes. On meurt de ne plus pouvoir ..........",
+                "mot1": "les rembourser",
+                "mot2": "aimer",
+                "mot3": "en faire",
+                "reponse": "en faire"
+                }
+                ,
+                {
+                "auteur": "Louis-Ferdinand Céline",
+                "phrase": "La médecine, c'est ingrat. Quand on se fait honorer par les riches, on a l'air d'un larbin ; par les pauvres, on a tout du ..........",
+                "mot1": "voleur",
+                "mot2": "sauveur",
+                "mot3": "seigneur",
+                "reponse": "voleur"
+                }
+                ,
+                {
+                "auteur": "Louis-Ferdinand Céline",
+                "phrase": ".......... c'est comme l'alcool,plus on est impuissant et soûl et plus on se croit fort et malin, et sûr de ses droits.",
+                "mot1": "Le travail",
+                "mot2": "L'amour",
+                "mot3": "L'écriture",
+                "reponse": "L'amour"
+                }
+                ,
+                {
+                "auteur": "Louis-Ferdinand Céline",
+                "phrase": "Chacun possède ses raisons poue s'évader de sa misère intime et chacun de nous pour y parvenir enprunte aux circonstances quelque ingénieux chemin. Heureux ceux auxquels .......... suffit",
+                "mot1": "l'argent",
+                "mot2": "Le mensonge",
+                "mot3": "le bordel",
+                "reponse": "le bordel"
+                }
+                ,
+                {
+                "auteur": "Louis-Ferdinand Céline",
+                "phrase": ".........., ce n'est que les idées ordinaires d'un homme mais bien enfermées dans une tête",
+                "mot1": "Un fou",
+                "mot2": "Un amoureux",
+                "mot3": "Un imbécile",
+                "reponse": "Un fou"
+                }
+                ,
+                {
+                "auteur": "Louis-Ferdinand Céline",
+                "phrase": "On est puceau de .......... comme on l'est de la volupté",
+                "mot1": "l'amour",
+                "mot2": "l'Horreur",
+                "mot3": "la poésie",
+                "reponse": "l'Horreur"
+                }
+                ,
+                {
+                "auteur": "Louis-Ferdinand Céline",
+                "phrase": "Engraisser les sillons du laboureur anonyme c'est le véritable avenir du véritable ..........",
+                "mot1": "fumier",
+                "mot2": "engrais",
+                "mot3": "soldat",
+                "reponse": "soldat"
+                }
+                ,
+                {
+                "auteur": "Louis-Ferdinand Céline",
+                "phrase": "De la prison, on en sort vivant, pas de .......... . Tout le reste, c'est des mots",
+                "mot1": "la guerre",
+                "mot2": "du mensonge",
+                "mot3": "de l'amour",
+                "reponse": "la guerre"
+                }
+                ,
+                {
+                "auteur": "Louis-Ferdinand Céline",
+                "phrase": "Rien à faire. Il faut un moment de .......... pour la création",
+                "mot1": "tranquillité",
+                "mot2": "délire",
+                "mot3": "clairvoyance",
+                "reponse": "délire"
+                }
+                ,
+                {
+                "auteur": "Louis-Ferdinand Céline",
+                "phrase": ".......... est géante, elle se sert pour essuyer les ordures du monde de votre figure comme d'une toile à laver",
+                "mot1": "La laideur",
+                "mot2": "La Terre",
+                "mot3": "La misère",
+                "reponse": "La misère"
+                }
+                ,
+                {
+                "auteur": "Louis-Ferdinand Céline",
+                "phrase": "Quand on a pas .........., mourir c'est peu de chose, quand on en a, mourir c'est trop",
+                "mot1": "d'argent",
+                "mot2": "de temps",
+                "mot3": "d'imagination",
+                "reponse": "d'imagination"
+                }
+                ,
+                {
+                "auteur": "Louis-Ferdinand Céline",
+                "phrase": "Etre seul c'est s'entrainer à ..........",
+                "mot1": "la méditation",
+                "mot2": "l'ennui",
+                "mot3": "la mort",
+                "reponse": "la mort"
+                }
+                ,
+                {
+                "auteur": "Louis-Ferdinand Céline",
+                "phrase": "Presque tous .......... du pauvre sont punis de prison",
+                "mot1": "les désirs",
+                "mot2": "les crimes",
+                "mot3": "les délits",
+                "reponse": "les désirs"
+                }
+                ,
+                {
+                "auteur": "Louis-Ferdinand Céline",
+                "phrase": "On peut obtenir tout d'un animal par la douceur et la raison, tandis que les grands enthousiasmes de masse, les frénésies .......... sont presque toujours stimulés, provoqués, entretenus par la bêtise et la brutalité",
+                "mot1": "des bestiaux",
+                "mot2": "des foules",
+                "mot3": "des oiseaux",
+                "reponse": "des foules"
+                }
+                ,
+                {
+                "auteur": "Louis-Ferdinand Céline",
+                "phrase": ".......... c'est ça, un bout de lumière qui finit dans la nuit",
+                "mot1": "L'intélligence",
+                "mot2": "La mort",
+                "mot3": "La vie",
+                "reponse": "La vie"
+                }
+                ,
+                {
+                "auteur": "Stéphane Mallarmé",
+                "phrase": " Oh ! Pour faire, Seigneur, un seul de tes sourires, Combien faut-il donc de nos .......... ? ",
+                "mot1": "pleurs",
+                "mot2": "plaisanteries",
+                "mot3": "prières",
+                "reponse": "pleurs"
+                }
+                ,
+                {
+                "auteur": "Louis Aragon",
+                "phrase": "Ce perpétuel mourir qu'on appelle, faute de mieux, ..........",
+                "mot1": "le désir",
+                "mot2": "le présent",
+                "mot3": "le futur",
+                "reponse": "le présent"
+                }
+                ,
+                {
+                "auteur": "Louis Aragon",
+                "phrase": "Les raisons d'aimer et de vivre varient comme font les ..........",
+                "mot1": "chansons",
+                "mot2": "hommes",
+                "mot3": "saisons",
+                "reponse": "saisons"
+                }
+                ,
+                {
+                "auteur": "Louis Aragon",
+                "phrase": ".......... est un voyageur qui laisse traîner son manteau derrière lui, pour effacer ses traces.",
+                "mot1": "La vie",
+                "mot2": "La mort",
+                "mot3": "Le Soleil",
+                "reponse": "La vie"
+                }
+                ,
+                {
+                "auteur": "Molière",
+                "phrase": "Les femmes sont plus .......... des oreilles que de tout le reste du corps.",
+                "mot1": "fragiles",
+                "mot2": "chastes",
+                "mot3": "sensibles",
+                "reponse": "chastes"
+                }
+                ,
+                {
+                "auteur": "Molière",
+                "phrase": " Tout le secret .......... ne consiste qu'en deux choses, à donner et à ne point recevoir",
+                "mot1": "de la fortune",
+                "mot2": "de l'instruction",
+                "mot3": "des armes",
+                "reponse": "des armes"
+                }
+                ,
+                {
+                "auteur": "Molière",
+                "phrase": "Il est si doux de .......... ! On ne meurt qu’une fois et c’est pour si longtemps !",
+                "mot1": "vivre",
+                "mot2": "chanter",
+                "mot3": "souffrir",
+                "reponse": "vivre"
+                }
+                ,
+                {
+                "auteur": "Molière",
+                "phrase": "Plus on aime quelqu’un, moins il faut qu’on le ..........",
+                "mot1": "dise",
+                "mot2": "flatte",
+                "mot3": "critique",
+                "reponse": "flatte"
+                }
+                ,
+                {
+                "auteur": "Molière",
+                "phrase": "Je veux qu’on soit sincère, et qu’en homme d’honneur, On ne lâche aucun mot qui ne parte ..........",
+                "mot1": "de l'esprit",
+                "mot2": "de vous",
+                "mot3": "du coeur",
+                "reponse": "du coeur"
+                }
+                ,
+                {
+                "auteur": "Molière",
+                "phrase": "L'hypocrisie est un vice à la mode et tous les vices à la mode passent pour ..........",
+                "mot1": "vertus",
+                "mot2": "convenus",
+                "mot3": "admis",
+                "reponse": "vertus"
+                }
+                ,
+                {
+                "auteur": "Molière",
+                "phrase": " Il y en a d'aucunes qui prennent .......... seulement pour se tirer de la contrainte de leurs parents.",
+                "mot1": "le large",
+                "mot2": "des maris",
+                "mot3": "des amants",
+                "reponse": "des maris"
+                }
+                ,
+                {
+                "auteur": "Molière",
+                "phrase": " On n'a pas besoin .........., quand on est conduit par le Ciel.",
+                "mot1": "d'esprit",
+                "mot2": "de guide",
+                "mot3": "de lumière",
+                "reponse": "de lumière"
+                }
+                ,
+                {
+                "auteur": "Jean Racine",
+                "phrase": "Au joug depuis longtemps, ils se sont façonnés ; ils adorent la main qui les tient ..........",
+                "mot1": "enchaînés",
+                "mot2": "en liberté",
+                "mot3": "en l'air",
+                "reponse": "enchaînés"
+                }
+                ,
+                {
+                "auteur": "Jean Racine",
+                "phrase": "Je crains votre .........., et non pas vos injures.",
+                "mot1": "haine",
+                "mot2": "silence",
+                "mot3": "amour",
+                "reponse": "silence"
+                }
+                ,
+                {
+                "auteur": "Jean Racine",
+                "phrase": "Ma vengeance est .......... s’il ignore en mourant que c’est moi qui le tue.",
+                "mot1": "meilleure",
+                "mot2": "perdue",
+                "mot3": "plus douce",
+                "reponse": "perdue"
+                }
+                ,
+                {
+                "auteur": "Pierre Corneille",
+                "phrase": "Qui ne sent point son mal est d'autant plus ..........",
+                "mot1": "heureux",
+                "mot2": "bête",
+                "mot3": "malade",
+                "reponse": "malade"
+                }
+                ,
+                {
+                "auteur": "Pierre Corneille",
+                "phrase": ".......... est un grand maître, il règle bien des choses. ",
+                "mot1": "Le temps",
+                "mot2": "L'amour",
+                "mot3": "Le Seigneur",
+                "reponse": "Le temps"
+                }
+                ,
+                {
+                "auteur": "Pierre Corneille",
+                "phrase": "L'amour n'est qu'un plaisir, .......... est un devoir." ,
+                "mot1": "le mariage",
+                "mot2": "l'honneur",
+                "mot3": "la gentillesse",
+                "reponse": "l'honneur"
+                }
+                ,
+                {
+                "auteur": "Pierre Corneille",
+                "phrase": "Qu'aisément un esprit qui se laisse flatter s'imagine un bonheur qu'il pense .......... ! ",
+                "mot1": "incarner",
+                "mot2": "recevoir",
+                "mot3": "mériter",
+                "reponse": "mériter"
+                }
+                ,
+                {
+                "auteur": "Pierre Corneille",
+                "phrase": ".......... aveugle un coeur atteint, et, sans examiner, croit tout ce qu'elle craint.",
+                "mot1": "La jalousie",
+                "mot2": "Le mensonge",
+                "mot3": "La beauté",
+                "reponse": "La jalousie"
+                }
+                ,
+                {
+                "auteur": "Pierre Corneille",
+                "phrase": "Il faut bonne mémoire après qu'on a .......... ",
+                "mot1": "appris",
+                "mot2": "menti",
+                "mot3": "bu",
+                "reponse": "menti"
+                }
+                ,
+                {
+                "auteur": "Pierre Corneille",
+                "phrase": "Si .......... vit d'espoir, il périt avec lui C'est un feu qui s'éteint, faute de nourriture.",
+                "mot1": "le succès",
+                "mot2": "le pouvoir",
+                "mot3": "l'amour",
+                "reponse": "l'amour"
+                }
+                ,
+                {
+                "auteur": "Pierre Corneille",
+                "phrase": "Si .......... quelquefois souffre qu'on le contraigne, Il souffre rarement qu'une autre ardeur l'éteigne.",
+                "mot1": "l'amour",
+                "mot2": "le travail",
+                "mot3": "le pouvoir",
+                "reponse": "l'amour"
+                }
+                ,
+                {
+                "auteur": " Honoré de Balzac",
+                "phrase": "Les gens généreux font de mauvais ..........",
+                "mot1": "amants",
+                "mot2": "commerçants",
+                "mot3": "gouvernants",
+                "reponse": "commerçants"
+                }
+                ,
+                {
+                "auteur": " Honoré de Balzac",
+                "phrase": " Le mariage doit incessamment combattre un monstre qui dévore tout : ..........",
+                "mot1": "la haine",
+                "mot2": "la jalousie",
+                "mot3": "l’habitude",
+                "reponse": "l’habitude"
+                }
+                ,
+                {
+                "auteur": " Honoré de Balzac",
+                "phrase": "Le coeur d’une mère est un abîme au fond duquel se trouve toujours ..........",
+                "mot1": "un pardon",
+                "mot2": "une tendresse",
+                "mot3": "une inquiètude",
+                "reponse": "un pardon"
+                }
+                ,
+                {
+                "auteur": " Honoré de Balzac",
+                "phrase": ".......... est le soleil des morts.",
+                "mot1": "La tristesse",
+                "mot2": "La gloire",
+                "mot3": "Le silence",
+                "reponse": "La gloire"
+                }
+                ,
+                {
+                "auteur": " Honoré de Balzac",
+                "phrase": " Les grands ont toujours tort de plaisanter avec leurs inférieurs. La plaisanterie est un jeu, le jeu suppose ..........",
+                "mot1": "la compétition",
+                "mot2": "l'autorité",
+                "mot3": "l’égalité",
+                "reponse": "l’égalité"
+                }
+                ,
+                {
+                "auteur": " Honoré de Balzac",
+                "phrase": ".......... fait dans certaines âmes un vaste désert où retentit la voix de Dieu.",
+                "mot1": "Le malheur",
+                "mot2": "Le travail",
+                "mot3": "Le bohneur",
+                "reponse": "Le malheur"
+                }
+                ,
+                {
+                "auteur": " Honoré de Balzac",
+                "phrase": "Ce qui rend les amitiés indissolubles et double leur charme, est un sentiment qui manque à l'amour, ..........",
+                "mot1": "la gratuité",
+                "mot2": "la certitude",
+                "mot3": "le pardon",
+                "reponse": "la certitude"
+                }
+                ,
+                {
+                "auteur": " Honoré de Balzac",
+                "phrase": " On trouve plus facilement .......... chez un homme seul que chez une nation entière.",
+                "mot1": "la folie",
+                "mot2": "la gloire",
+                "mot3": "la sagesse",
+                "reponse": "la sagesse"
+                }
+                ,
+                {
+                "auteur": " Honoré de Balzac",
+                "phrase": "Un .......... est un homme qui a dîné et qui regarde les autres manger.",
+                "mot1": "vieillard",
+                "mot2": "prisonnier",
+                "mot3": "seigneur",
+                "reponse": "vieillard"
+                }
+                ,
+                {
+                "auteur": " Honoré de Balzac",
+                "phrase": "En .........., il y en a toujours un qui souffre et l'autre qui s'ennuie",
+                "mot1": "amitié",
+                "mot2": "amour",
+                "mot3": "parenté",
+                "reponse": "amour"
+                }
+                ,
+                {
+                "auteur": " Honoré de Balzac",
+                "phrase": "La prospérité porte avec elle une ivresse à laquelle les hommes .......... ne résistent jamais.",
+                "mot1": "humbles",
+                "mot2": "supérieurs",
+                "mot3": "inférieurs",
+                "reponse": "inférieurs"
+                }
+                ,
+                {
+                "auteur": " Honoré de Balzac",
+                "phrase": "Le sentiment que l'homme supporte le plus difficilement, c'est la .........., surtout quand il la mérite.",
+                "mot1": "pitié",
+                "mot2": "rancune",
+                "mot3": "haine",
+                "reponse": "pitié"
+                }
+                ,
+                {
+                "auteur": " Honoré de Balzac",
+                "phrase": " Le .........., c'est le vrai bien habillé.",
+                "mot1": "juste",
+                "mot2": "beau",
+                "mot3": "mensonge",
+                "reponse": "beau"
+                }
+                ,
+                {
+                "auteur": "Honoré de Balzac",
+                "phrase": ".......... est aussi soudaine dans ses caprices qu'une courtisane l'est dans ses dédains, mais plus fidèle, elle n'a jamais trompé personne.",
+                "mot1": "La vie",
+                "mot2": "La justice",
+                "mot3": "La mort",
+                "reponse": "La mort"
+                }
+                ,
+                {
+                "auteur": " Honoré de Balzac",
+                "phrase": " .......... est un marchepied pour le génie, une piscine pour le chrétien, un trésor pour l'homme habile, pour les faibles un abîme. ",
+                "mot1": "Le malheur",
+                "mot2": "L'inspiration",
+                "mot3": "La richesse",
+                "reponse": "Le malheur"
+                }
+                ,
+                {
+                "auteur": " Honoré de Balzac",
+                "phrase": "J'ai souvent éprouvé que .......... est un bien à qui possède une belle âme. ",
+                "mot1": "la fortune",
+                "mot2": "la solitude",
+                "mot3": "le talent",
+                "reponse": "la solitude"
+                }
+                ,
+                {
+                "auteur": " Honoré de Balzac",
+                "phrase": "Plus sa vie est .........., plus l'homme y tient ; elle est alors une protestation, une vengeance de tous les instants.",
+                "mot1": "décadente",
+                "mot2": "belle",
+                "mot3": "infâme",
+                "reponse": "infâme"
+                }
+                ,
+                {
+                "auteur": " Honoré de Balzac",
+                "phrase": ".......... n'émane jamais des grandes âmes, elle est l'apanage des petits esprits qui réussissent à se rapetisser encore pour mieux entrer dans la sphère vitale de la personne autour de laquelle ils gravitent.",
+                "mot1": "La traitrise",
+                "mot2": "La flatterie",
+                "mot3": "La stupidité",
+                "reponse": "La flatterie"
+                }
+                ,
+                {
+                "auteur": "Guy de Maupassant",
+                "phrase": ".......... Tout l'univers est en lui, puisqu'il voit, puisqu'il reflète.",
+                "mot1": "Dieu...",
+                "mot2": "Le coeur...",
+                "mot3": "L'oeil...",
+                "reponse": "L'oeil..."
+                }
+                ,
+                {
+                "auteur": "Guy de Maupassant",
+                "phrase": " On finirait par devenir fou, ou par mourir, si on ne pouvait pas ..........",
+                "mot1": "pleurer",
+                "mot2": "danser",
+                "mot3": "chanter",
+                "reponse": "pleurer"
+                }
+                ,
+                {
+                "auteur": "Guy de Maupassant",
+                "phrase": "Le surnaturel baisse comme un lac qu'un canal épuise ; .......... à tout moment recule les limites du merveilleux.",
+                "mot1": "la conscience",
+                "mot2": "la science",
+                "mot3": "la religion",
+                "reponse": "la science"
+                }
+                ,
+                {
+                "auteur": "Guy de Maupassant",
+                "phrase": ".......... ! Mais c'est la force de ceux qui n'en ont plus, c'est l'espoir de ceux qui ne croient plus, c'est le sublime courage des vaincus.",
+                "mot1": "La vengeance",
+                "mot2": "Le sommeil",
+                "mot3": "Le suicide",
+                "reponse": "Le suicide"
+                }
+                ,
+                {
+                "auteur": "Guy de Maupassant",
+                "phrase": "Ce que l'on aime avec violence finit toujours par vous ..........",
+                "mot1": "tuer",
+                "mot2": "épuiser",
+                "mot3": "détourner",
+                "reponse": "tuer"
+                }
+                ,
+                {
+                "auteur": "Guy de Maupassant",
+                "phrase": "Une action .......... en soi devient souvent méritoire par la pensée qui l'inspire.",
+                "mot1": "belle",
+                "mot2": "blâmable",
+                "mot3": "pure",
+                "reponse": "blâmable"
+                }
+                ,
+                {
+                "auteur": "Gustave Flaubert",
+                "phrase": "Les .......... des femmes sont comme ces petits meubles à secret, pleins de tiroirs emboîtés les uns dans les autres.",
+                "mot1": "esprits",
+                "mot2": "jupes",
+                "mot3": "coeurs",
+                "reponse": "coeurs"
+                }
+                ,
+                {
+                "auteur": "Gustave Flaubert",
+                "phrase": ".........., après tout, n'est qu'une curiosité supérieure, un appétit de l'inconnu qui vous pousse dans l'orage, poitrine ouverte et tête en avant. ",
+                "mot1": "L'amour",
+                "mot2": "Le voyage",
+                "mot3": "Le rêve",
+                "reponse": "L'amour"
+                }
+                ,
+                {
+                "auteur": "Gustave Flaubert",
+                "phrase": "Notre .......... est une bête féroce ; toujours affamée, il faut la gorger jusqu'à la gueule pour qu'elle ne se jette pas sur nous. Rien n'apaise plus qu'un long travail.",
+                "mot1": "esprit",
+                "mot2": "âme",
+                "mot3": "coeur",
+                "reponse": "âme"
+                }
+                ,
+                {
+                "auteur": "Gustave Flaubert",
+                "phrase": "Etre bête, égoïste et avoir une bonne santé, voilà les trois conditions voulues pour être heureux. Mais si la .......... vous manque, tout est perdu.",
+                "mot1": "deuxième",
+                "mot2": "troisième",
+                "mot3": "première",
+                "reponse": "première"
+                }
+                ,
+                {
+                "auteur": "Gustave Flaubert",
+                "phrase": " .......... est l'espérance renversée. On regarde le fond du puits comme on a regardé le sommet de la tour.",
+                "mot1": "Le souvenir",
+                "mot2": "Le suicide",
+                "mot3": "Le désespoir",
+                "reponse": "Le souvenir"
+                }
+                ,
+                {
+                "auteur": "Gustave Flaubert",
+                "phrase": "Les femmes se défient trop des hommes en général et pas assez ..........",
+                "mot1": "des femmes",
+                "mot2": "en particulier",
+                "mot3": "d'elles mêmes",
+                "reponse": "en particulier"
+                }
+                ,
+                {
+                "auteur": "Gustave Flaubert",
+                "phrase": "L'art est la recherche .......... ; il est dans la spéculation ce qu'est l'héroïsme dans la morale. ",
+                "mot1": "du nouveau",
+                "mot2": "du beau",
+                "mot3": "de l'inutile",
+                "reponse": "de l'inutile"
+                }
+                ,
+                {
+                "auteur": "Gustave Flaubert",
+                "phrase": ".......... . Se plaindre de celui des autres, et ne pas s'apercevoir du sien.",
+                "mot1": "Egoïsme",
+                "mot2": "Succès",
+                "mot3": "Malheur",
+                "reponse": "Egoïsme"
+                }
+                ,
+                {
+                "auteur": "Gustave Flaubert",
+                "phrase": ".......... : toujours précoce - et causée par des excès de jeunesse ou la conception de grandes pensées.",
+                "mot1": "Impuissance",
+                "mot2": "Calvitie",
+                "mot3": "Maladie",
+                "reponse": "Calvitie"
+                }
+                ,
+                {
+                "auteur": "Gustave Flaubert",
+                "phrase": ".......... sont pour le coeur ce que l’eau est pour les poissons.",
+                "mot1": "les joies",
+                "mot2": "les mahleurs",
+                "mot3": "Les larmes",
+                "reponse": "Les larmes"
+                }
+                ,
+                {
+                "auteur": "Gustave Flaubert",
+                "phrase": "Je crois que le succès auprès .......... est généralement une marque de médiocrité, et c'est celui-là pourtant que nous envions tous et qui couronne les autres.",
+                "mot1": "des femmes",
+                "mot2": "des affaires",
+                "mot3": "des critiques",
+                "reponse": "des femmes"
+                }
+                ,
+                {
+                "auteur": "Gustave Flaubert",
+                "phrase": "Un infini de passions peut tenir dans ..........",
+                "mot1": "une vie",
+                "mot2": "une minute",
+                "mot3": "un verre",
+                "reponse": "une minute"
+                }
+                ,
+                {
+                "auteur": "Gustave Flaubert",
+                "phrase": "Pour qu’une chose soit .........., il suffit de la regarder longtemps.",
+                "mot1": "ennuyeuse",
+                "mot2": "comprise",
+                "mot3": "intéressante",
+                "reponse": "intéressante"
+                }
+                ,
+                {
+                "auteur": "Chateaubriand",
+                "phrase": "Le .......... s’évanouit quand on ose le regarder.",
+                "mot1": "péril",
+                "mot2": "bohneur",
+                "mot3": "beau",
+                "reponse": "péril"
+                }
+                ,
+                {
+                "auteur": "Chateaubriand",
+                "phrase": "Tant que le coeur conserve des souvenirs, l'esprit garde des ..........",
+                "mot1": "larmes",
+                "mot2": "illusions",
+                "mot3": "chansons",
+                "reponse": "illusions"
+                }
+                ,
+                {
+                "auteur": "Chateaubriand",
+                "phrase": "Ne disputons à personne ses souffrances ; il en est des douleurs comme des .........., chacun a la sienne. ",
+                "mot1": "amies",
+                "mot2": "femmes",
+                "mot3": "patries",
+                "reponse": "patries"
+                }
+                ,
+                {
+                "auteur": "Chateaubriand",
+                "phrase": "Chaque .......... renferme en soi un monde à part, étranger aux lois et aux destinées générales des siècles.",
+                "mot1": "homme",
+                "mot2": "ville",
+                "mot3": "paysage",
+                "reponse": "homme"
+                }
+                ,
+                {
+                "auteur": "Chateaubriand",
+                "phrase": "Le vrai .......... coûte peu ; s’il est cher, il n’est pas d’une bonne espèce.",
+                "mot1": "amour",
+                "mot2": "bonheur",
+                "mot3": "chef d'oeuvre",
+                "reponse": "bonheur"
+                }
+                ,
+                {
+                "auteur": "Chateaubriand",
+                "phrase": "Il est dans les extrêmes plaisirs, un aiguillon qui nous éveille, comme pour nous avertir de profiter de ce moment rapide ; dans les grandes douleurs, au contraire, je ne sais quoi de pesant nous ..........",
+                "mot1": "réveille",
+                "mot2": "transporte",
+                "mot3": "endort",
+                "reponse": "endort"
+                }
+                ,
+                {
+                "auteur": "Chateaubriand",
+                "phrase": "La .......... est si sacrée, elle semble si nécessaire aux succès des affaires, que ceux-mêmes qui la foulent au pied prétendent n'agir que d'après ses principes.",
+                "mot1": "justice",
+                "mot2": "modestie",
+                "mot3": "beauté",
+                "reponse": "justice"
+                }
+                ,
+                {
+                "auteur": "Chateaubriand",
+                "phrase": "On se livre d'autant plus vivement aux plaisirs qu'on se sent près ..........",
+                "mot1": "de les voir",
+                "mot2": "de les perdre",
+                "mot3": "d'y accéder",
+                "reponse": "de les perdre"
+                }
+                ,
+                {
+                "auteur": "Chateaubriand",
+                "phrase": "Les mendiants vivent de leurs .......... : il y a des hommes qui profitent de tout, même du mépris. ",
+                "mot1": "mains",
+                "mot2": "destinés",
+                "mot3": "plaies",
+                "reponse": "plaies"
+                }
+                ,
+                {
+                "auteur": "Jean de La Bruyère",
+                "phrase": "L’esclave n’a qu’un maître ; .......... en a autant qu’il y a de gens utiles à sa fortune.",
+                "mot1": "l’ambitieux",
+                "mot2": "le riche",
+                "mot3": "le malheureux",
+                "reponse": "l’ambitieux"
+                }
+                ,
+                {
+                "auteur": "Jean de La Bruyère",
+                "phrase": "Les hommes et les femmes conviennent rarement sur .......... d’une femme : leurs intérêts sont trop différents.",
+                "mot1": "la beauté",
+                "mot2": "le mérite",
+                "mot3": "la bonté",
+                "reponse": "le mérite"
+                }
+
+                ,
+                {
+                "auteur": "Jean de La Bruyère",
+                "phrase": "Après l’esprit de .........., ce qu’il y a au monde de plus rare, ce sont les diamants et les perles. ",
+                "mot1": "persuasion",
+                "mot2": "pureté",
+                "mot3": "discernement",
+                "reponse": "discernement"
+                }
+                ,
+                {
+                "auteur": "Jean de La Bruyère",
+                "phrase": "Il n'y a guère au monde un plus bel excès que celui de .......... ",
+                "mot1": "la reconnaissance",
+                "mot2": "l'ivresse",
+                "mot3": "l'amour",
+                "reponse": "la reconnaissance"
+                }
+                ,
+                {
+                "auteur": "Jean de La Bruyère",
+                "phrase": ".......... n'arrive qu'une fois, et se fait sentir à tous les moments de la vie : il est plus dur de l'appréhender que de la souffrir.",
+                "mot1": "L'amour",
+                "mot2": "La mort",
+                "mot3": "La détresse",
+                "reponse": "La mort"
+                }
+                ,
+                {
+                "auteur": "Jean de La Bruyère",
+                "phrase": "Un homme .......... ni ne se laisse gouverner, ni ne cherche à gouverner les autres : il veut que la raison gouverne seule, et toujours. ",
+                "mot1": "naïf",
+                "mot2": "ambitieux",
+                "mot3": "sage",
+                "reponse": "sage"
+                }
+                ,
+                {
+                "auteur": "Jean de La Bruyère",
+                "phrase": "Les postes .......... rendent les grands hommes encore plus grands, et les petits hommes encore plus petits. ",
+                "mot1": "éminents",
+                "mot2": "difficiles",
+                "mot3": "inconnus",
+                "reponse": "éminents"
+                }
+                ,
+                {
+                "auteur": "Jean de La Bruyère",
+                "phrase": " Il y a dans quelques hommes une certaine médiocrité d'esprit qui contribue à les rendre .......... ",
+                "mot1": "beaux",
+                "mot2": "sages",
+                "mot3": "malheureux",
+                "reponse": "sages"
+                }
+                ,
+                {
+                "auteur": "Jean de La Bruyère",
+                "phrase": " C'est une grande .......... de n'avoir pas assez d'esprit pour mieux parler, ni assez de jugement pour se taire.",
+                "mot1": "aventure",
+                "mot2": "chance",
+                "mot3": "misère",
+                "reponse": "misère"
+                }
+                ,
+                {
+                "auteur": "Jean de La Bruyère",
+                "phrase": "Ceux qui, sans nous connaître assez, pensent mal de nous, ne nous font pas de tort : ce n'est pas nous qu'ils attaquent, c'est le fantôme de leur .......... ",
+                "mot1": "imagination",
+                "mot2": "passé",
+                "mot3": "maison",
+                "reponse": "imagination"
+                }
+                ,
+                {
+                "auteur": "Jean de La Bruyère",
+                "phrase": "Il y a bien autant de .......... que de faiblesse à se laisser gouverner.",
+                "mot1": "malheur",
+                "mot2": "paresse",
+                "mot3": "force",
+                "reponse": "paresse"
+                }
+                ,
+                {
+                "auteur": "Jean de La Bruyère",
+                "phrase": "A quelques-uns .......... tient lieu de grandeur ; l’inhumanité de fermeté ; et la fourberie, d’esprit. ",
+                "mot1": "la richesse",
+                "mot2": "la pureté",
+                "mot3": "l’arrogance",
+                "reponse": "l’arrogance"
+                }
+                ,
+                {
+                "auteur": "Etienne de La Boétie",
+                "phrase": "Car le feu qui me brûle est celui qui ..........",
+                "mot1": "m’éclaire",
+                "mot2": "me consume",
+                "mot3": "me réchauffe",
+                "reponse": "m’éclaire"
+                }
+                ,
+                {
+                "auteur": "Etienne de La Boétie",
+                "phrase": "Ils ne sont grands que parce que nous sommes ..........",
+                "mot1": "petits",
+                "mot2": "à genou",
+                "mot3": "faibles",
+                "reponse": "à genou"
+                }
+                ,
+                {
+                "auteur": "Etienne de La Boétie",
+                "phrase": "J'aime ce qui me nourrit: le boire, le manger, ..........",
+                "mot1": "l'amour",
+                "mot2": "l'argent",
+                "mot3": "les livres",
+                "reponse": "les livres"
+                }
+                ,
+                {
+                "auteur": "Etienne de La Boétie",
+                "phrase": "C'est un extrême malheur que d'être assujetti à un .........., dont on ne peut être jamais assuré qu'il soit bon, puisqu'il est toujours en sa puissance d'être mauvais quand il voudra.",
+                "mot1": "maître",
+                "mot2": "ami",
+                "mot3": "dieu",
+                "reponse": "maître"
+                }
+                ,
+                {
+                "auteur": "Etienne de La Boétie",
+                "phrase": ".........., c'est un nom sacré, c'est une chose sainte: elle ne peut exister qu'entre gens de bien, elle naît d'une mutuelle estime, et s'entretient non tant par les bienfaits que par bonne vie et moeurs.",
+                "mot1": "L'amour",
+                "mot2": "L'amitié",
+                "mot3": "La tendresse",
+                "reponse": "L'amitié"
+                }
+                ,
+                {
+                "auteur": "Alfred de Musset",
+                "phrase": "Ne pouvant se corriger de sa folie, il tentait de lui donner l’apparence de ..........",
+                "mot1": "l'amour",
+                "mot2": "la passion",
+                "mot3": "la raison",
+                "reponse": "la raison"
+                }
+                ,
+                {
+                "auteur": "Alfred de Musset",
+                "phrase": " Il est doux de se croire .........., quand on n’est que vide et ennuyé.",
+                "mot1": "malheureux",
+                "mot2": "artiste",
+                "mot3": "intélligent",
+                "reponse": "malheureux"
+                }
+                ,
+                {
+                "auteur": "Alfred de Musset",
+                "phrase": "Qui ne sait que .......... a des puissances telles, que les femmes y sont, comme les fleurs, plus belles.",
+                "mot1": "l'alcool",
+                "mot2": "la nuit",
+                "mot3": "l'imaginaire",
+                "reponse": "la nuit"
+                }
+                ,
+                {
+                "auteur": "Alfred de Musset",
+                "phrase": ".......... est frère de la souffrance.",
+                "mot1": "La bêtise",
+                "mot2": "Le plaisir",
+                "mot3": "L'enthousiasme",
+                "reponse": "L'enthousiasme"
+                }
+                ,
+                {
+                "auteur": "Alfred de Musset",
+                "phrase": ".......... a pour tombeau l'ingratitude humaine.",
+                "mot1": "Le bien",
+                "mot2": "Le mal",
+                "mot3": "L'intélligence",
+                "reponse": "Le bien"
+                }
+                ,
+                {
+                "auteur": "Alfred de Musset",
+                "phrase": "Le seul bien qui me reste au monde Est d'avoir quelquefois ..........",
+                "mot1": "dansé",
+                "mot2": "pleuré",
+                "mot3": "mangé",
+                "reponse": "pleuré"
+                }
+                ,
+                {
+                "auteur": "Alfred de Musset",
+                "phrase": "A l'âge où le coeur est riche, on n'a pas les .......... avares.",
+                "mot1": "yeux",
+                "mot2": "mains",
+                "mot3": "lèvres",
+                "reponse": "lèvres"
+                }
+                ,
+                {
+                "auteur": "Alfred de Musset",
+                "phrase": "Quelquefois, il y a des sympathies si réelles que, se rencontrant pour la première fois, on semble se ..........",
+                "mot1": "retrouver",
+                "mot2": "marrier",
+                "mot3": "comprendre",
+                "reponse": "retrouver"
+                }
+                ,
+                {
+                "auteur": "Alfred de Musset",
+                "phrase": " .......... est de tous les tourments le plus difficile à supporter.",
+                "mot1": "La trahison",
+                "mot2": "L'incertitude",
+                "mot3": "La déception",
+                "reponse": "L'incertitude"
+                }
+                ,
+                {
+                "auteur": "Alfred de Musset",
+                "phrase": " Un souvenir heureux est peut-être sur terre Plus vrai que ..........",
+                "mot1": "le présent",
+                "mot2": "le mahleur",
+                "mot3": "le bonheur",
+                "reponse": "le bonheur"
+                }
+                ,
+                {
+                "auteur": "Alfred de Musset",
+                "phrase": " .........., comme l'eau de mer, ne s'adoucit qu'en s'élevant vers le ciel.",
+                "mot1": "La vie",
+                "mot2": "La douleur",
+                "mot3": "La colère",
+                "reponse": "La vie"
+                }
+                ,
+                {
+                "auteur": "Alfred de Musset",
+                "phrase": "L’homme sans .........., c’est comme une lampe sans huile.",
+                "mot1": "coeur",
+                "mot2": "patience",
+                "mot3": "intélligence",
+                "reponse": "patience"
+                }
+                ,
+                {
+                "auteur": "Alfred de Musset",
+                "phrase": "Où le plaisir ne coûte rien, .......... n'a rien à perdre.",
+                "mot1": "l'homme",
+                "mot2": "la femme",
+                "mot3": "la jeunesse",
+                "reponse": "la jeunesse"
+                }
+                ,
+                {
+                "auteur": "Alfred de Musset",
+                "phrase": "Arrive-t-il quelque bonheur ? Vite, à .......... on le raconte ; C’est dans son sein consolateur Qu’on raconte ses pleurs ou sa honte.",
+                "mot1": "sa mère",
+                "mot2": "Dieu",
+                "mot3": "son amour",
+                "reponse": "sa mère"
+                }
+                ,
+                {
+                "auteur": "Alfred de Musset",
+                "phrase": "On dit qu'il n'y a rien de si rapide qu'un sentiment ..........",
+                "mot1": "d'amour",
+                "mot2": "d'antipathie",
+                "mot3": "de colère",
+                "reponse": "d'antipathie"
+                }
+                ,
+                {
+                "auteur": "Alfred de Musset",
+                "phrase": " Rien ne nous rend si grands qu’une grande ..........",
+                "mot1": "découverte",
+                "mot2": "réussite",
+                "mot3": "douleur",
+                "reponse": "douleur"
+                }
+                ,
+                {
+                "auteur": "Edmond Rostand",
+                "phrase": " .........., qu'est-ce ? Un serment fait d'un peu plus près, un aveu qui veut se confirmer, un point rose qu'on met sur l’i du verbe aimer ; c'est un secret qui prend la bouche pour oreille.",
+                "mot1": "Un baiser",
+                "mot2": "Une danse",
+                "mot3": "Une promesse",
+                "reponse": "Un baiser"
+                }
+                ,
+                {
+                "auteur": "Edmond Rostand",
+                "phrase": "La meilleure .......... est la plus clandestine",
+                "mot1": "révolte",
+                "mot2": "prière",
+                "mot3": "parole",
+                "reponse": "prière"
+                }
+                ,
+                {
+                "auteur": "Edmond Rostand",
+                "phrase": "Les haines de races ne sont jamais au fond, que des haines de ..........",
+                "mot1": "méconnaissances",
+                "mot2": "places",
+                "mot3": "folies",
+                "reponse": "places"
+                }
+                ,
+                {
+                "auteur": "Edmond Rostand",
+                "phrase": "C’est très bien. J’aurai tout manqué, même ..........",
+                "mot1": "ma victoire",
+                "mot2": "ma vie",
+                "mot3": "ma mort",
+                "reponse": "ma mort"
+                }
+                ,
+                {
+                "auteur": "Edmond Rostand",
+                "phrase": "Ah ! que pour ton bonheur je donnerais le mien - Quand même tu devrais n’en savoir jamais rien - S’il se pouvait, parfois, que de loin j’entendisse - Rire un peu le bonheur né de .......... !",
+                "mot1": "mon sacrifice",
+                "mot2": "ma malice",
+                "mot3": "mon travail",
+                "reponse": "mon sacrifice"
+                }
+                ,
+                {
+                "auteur": "Stendhal",
+                "phrase": "Les hommes ne se comprennent qu’à mesure qu’ils sont animés des mêmes ..........",
+                "mot1": "méconnaissances",
+                "mot2": "passions",
+                "mot3": "folies",
+                "reponse": "passions"
+                }
+                ,
+                {
+                "auteur": "Stendhal",
+                "phrase": "Un roman est comme un archet, la caisse du violon qui rend les sons, c’est l’âme ..........",
+                "mot1": "de l'écriture",
+                "mot2": "de l'auteur",
+                "mot3": "du lecteur",
+                "reponse": "du lecteur"
+                }
+                ,
+                {
+                "auteur": "Stendhal",
+                "phrase": "Un peu de passion augmente l’esprit, beaucoup ..........",
+                "mot1": "l’éteint",
+                "mot2": "le subjugue",
+                "mot3": "le renforce",
+                "reponse": "l’éteint"
+                }
+                ,
+                {
+                "auteur": "Stendhal",
+                "phrase": "Le pire des malheurs en prison, c’est de ne pouvoir fermer ..........",
+                "mot1": "sa bouche",
+                "mot2": "sa porte",
+                "mot3": "son esprit",
+                "reponse": "sa porte"
+                }
+                ,
+                {
+                "auteur": "Stendhal",
+                "phrase": "On peut tout acquérir dans la solitude, hormis ..........",
+                "mot1": "du savoir",
+                "mot2": "du temps",
+                "mot3": "du caractère",
+                "reponse": "du caractère"
+                }
+                ,
+                {
+                "auteur": "Stendhal",
+                "phrase": "Les choses qu'il faut aux arts pour prospérer sont souvent contraires à celles qu'il faut aux nations pour être ..........",
+                "mot1": "heureuses",
+                "mot2": "grandes",
+                "mot3": "silencieuses",
+                "reponse": "heureuses"
+                }
+                ,
+                {
+                "auteur": "Stendhal",
+                "phrase": " ......... sont toujours une force que l'on cherche hors de soi. ",
+                "mot1": "Les pensés",
+                "mot2": "Les paroles",
+                "mot3": "Les divinités",
+                "reponse": "Les paroles"
+                }
+                ,
+                {
+                "auteur": "Stendhal",
+                "phrase": "......... de l'homme est comme un marais infect : si l'on ne passe vite, on s’enfonce.",
+                "mot1": "Le désir",
+                "mot2": "Le corps",
+                "mot3": "L'âme",
+                "reponse": "L'âme"
+                }
+                ,
+                {
+                "auteur": "Stendhal",
+                "phrase": "Le premier instrument du génie d'un peuple, c'est ..........",
+                "mot1": "sa langue",
+                "mot2": "sa technologie",
+                "mot3": "sa culture",
+                "reponse": "sa langue"
+                }
+                ,
+                {
+                "auteur": "Stendhal",
+                "phrase": "Il est difficile de ne pas s'exagérer le bonheur dont on .......... ",
+                "mot1": "jouit",
+                "mot2": "ne jouit pas",
+                "mot3": "rêve",
+                "reponse": "ne jouit pas"
+                }
+                ,
+                {
+                "auteur": "Stendhal",
+                "phrase": "Une femme disait : les aveux vraiment ......... ne sont pas ceux que nous faisons, ce sont ceux qui nous échappent.",
+                "mot1": "cruels",
+                "mot2": "déplacés",
+                "mot3": "flatteurs",
+                "reponse": "flatteurs"
+                }
+                ,
+                {
+                "auteur": "Stendhal",
+                "phrase": "Une femme disait : les aveux vraiment ......... ne sont pas ceux que nous faisons, ce sont ceux qui nous échappent.",
+                "mot1": "cruels",
+                "mot2": "déplacés",
+                "mot3": "flatteurs",
+                "reponse": "flatteurs"
+                }
+                ,
+                {
+                "auteur": "Stendhal",
+                "phrase": "C'est un moyen de se ......... que de regarder sa douleur de près.",
+                "mot1": "consoler",
+                "mot2": "comprendre",
+                "mot3": "distraire",
+                "reponse": "consoler"
+                }
+                ,
+                {
+                "auteur": "Stendhal",
+                "phrase": "......... peut se comparer à la loterie : duperie certaine et bonheur cherché par les fous !",
+                "mot1": "La fortune",
+                "mot2": "La passion",
+                "mot3": "La gloire",
+                "reponse": "La passion"
+                }
+                ,
+                {
+                "auteur": "Stendhal",
+                "phrase": " Donner ......... à tout, c’est le secret des anciens.",
+                "mot1": "un prix",
+                "mot2": "de l'amour",
+                "mot3": "une âme",
+                "reponse": "une âme"
+                }
+                ,
+                {
+                "auteur": "Stendhal",
+                "phrase": " Excepté pour la passion du héros, un roman doit être ..........",
+                "mot1": "un miroir",
+                "mot2": "une fiction",
+                "mot3": "un souvenir",
+                "reponse": "un miroir"
+                }
+                ,
+                {
+                "auteur": "Alexandre Dumas",
+                "phrase": "Il y a des services si grands qu'on ne peut les payer que par ..........",
+                "mot1": "sa vie",
+                "mot2": "l'ingratitude",
+                "mot3": "le coeur",
+                "reponse": "l'ingratitude"
+                }
+                ,
+                {
+                "auteur": "Alexandre Dumas",
+                "phrase": "......... est la dernière joie des malheureux.",
+                "mot1": "La mort",
+                "mot2": "La plainte",
+                "mot3": "Le silence",
+                "reponse": "Le silence"
+                }
+                ,
+                {
+                "auteur": "Alexandre Dumas",
+                "phrase": "C'est un moyen de se ......... que de regarder sa douleur de près.",
+                "mot1": "consoler",
+                "mot2": "comprendre",
+                "mot3": "distraire",
+                "reponse": "consoler"
+                }
+                ,
+                {
+                "auteur": "Choderlos de Laclos",
+                "phrase": "On acquiert rarement les ......... dont on peut se passer.",
+                "mot1": "défauts",
+                "mot2": "qualités",
+                "mot3": "pensées",
+                "reponse": "qualités"
+                }
+
+                ,
+                {
+                "auteur": "Choderlos de Laclos",
+                "phrase": "L'amour que l'on nous vante comme la cause de nos plaisirs n'en est au plus que le ..........",
+                "mot1": "but",
+                "mot2": "mensonge",
+                "mot3": "prétexte",
+                "reponse": "prétexte"
+                }
+                ,
+                {
+                "auteur": "Emil Michel Cioran",
+                "phrase": "On est et on demeure esclave aussi longtemps que l'on n'est pas guéri de la manie ..........",
+                "mot1": "d'espérer",
+                "mot2": "d'obéir",
+                "mot3": "de mourir",
+                "reponse": "d'espérer"
+                }
+                ,
+                {
+                "auteur": "Emil Michel Cioran",
+                "phrase": "Qu'une réalité se cache derrière les apparences, cela est, somme toute, possible ; que ......... puisse la rendre, il serait ridicule de l'espérer.",
+                "mot1": "le corps",
+                "mot2": "le langage",
+                "mot3": "l'esprit",
+                "reponse": "le langage"
+                }
+                ,
+                {
+                "auteur": "Emil Michel Cioran",
+                "phrase": "Je donnerais tous les paysages du monde pour celui de ..........",
+                "mot1": "l'Italie",
+                "mot2": "l'amour",
+                "mot3": "mon enfance",
+                "reponse": "mon enfance"
+                }
+                ,
+                {
+                "auteur": "Emil Michel Cioran",
+                "phrase": "........., source inépuisable de malheurs dans la vie pratique, est la cause directe, voire unique de toute richesse intérieure.",
+                "mot1": "La timidité",
+                "mot2": "La désobéissance",
+                "mot3": "La tendresse",
+                "reponse": "La timidité"
+                }
+                ,
+                {
+                "auteur": "Emil Michel Cioran",
+                "phrase": "Pendant ........., je me dis, en guise de consolation, que ces heures dont je prend conscience, je les arrache au néant, et que si je les dormais, elles ne m'auraient jamais appartenu, elles n'auraient jamais existé.",
+                "mot1": "la guerre",
+                "mot2": "l'insomnie",
+                "mot3": "le sommeil",
+                "reponse": "l'insomnie"
+                }
+                ,
+                {
+                "auteur": "Emil Michel Cioran",
+                "phrase": "Se méfier des penseurs dont l'esprit ne fonctionne qu'à partir d'une ..........",
+                "mot1": "émotion",
+                "mot2": "idée",
+                "mot3": "citation",
+                "reponse": "citation"
+                }
+                ,
+                {
+                "auteur": "Emil Michel Cioran",
+                "phrase": "Redouter ........., c'est redouter le ridicule, il n'y a rien de plus mesquin. Aller de l'avant - c'est justement ne pas craindre de devenir la risée de ses semblables.",
+                "mot1": "les hommes",
+                "mot2": "l'échec",
+                "mot3": "la mort",
+                "reponse": "l'échec"
+                }
+                ,
+                {
+                "auteur": "Emil Michel Cioran",
+                "phrase": "À défaut d'avoir sauvé le monde, ......... aura au moins sauvé les femmes.",
+                "mot1": "la beauté",
+                "mot2": "la grâce",
+                "mot3": "l'amour",
+                "reponse": "la grâce"
+                }
+                ,
+                {
+                "auteur": "Emil Michel Cioran",
+                "phrase": "C'est s'investir d'une supériorité bien abusive que de dire à quelqu'un ce qu'on pense de lui et de ce qu'il fait. La ......... n'est pas compatible avec un sentiment délicat, elle ne l'est même pas avec une exigence éthique.",
+                "mot1": "traîtrise",
+                "mot2": "colère",
+                "mot3": "franchise",
+                "reponse": "franchise"
+                }
+                ,
+                {
+                "auteur": "Emil Michel Cioran",
+                "phrase": "OLa poésie a, comme la vie, l'excuse de ne rien ..........",
+                "mot1": "prouver",
+                "mot2": "dire",
+                "mot3": "promettre",
+                "reponse": "prouver"
+                }
+                ,
+                {
+                "auteur": "Emil Michel Cioran",
+                "phrase": "Les romantiques furent les derniers spécialistes .......... Depuis, on le bâcle...",
+                "mot1": "de l'amour",
+                "mot2": "du suicide",
+                "mot3": "de l'imagination",
+                "reponse": "du suicide"
+                }
+                ,
+                {
+                "auteur": "André Gide",
+                "phrase": "L'oeuvre d'art, c'est une idée qu'on ...........",
+                "mot1": "fixe",
+                "mot2": "détourne",
+                "mot3": "exagère",
+                "reponse": "exagère"
+                }
+                ,
+                {
+                "auteur": "André Gide",
+                "phrase": "Plus un humoriste est .........., moins il a besoin de déformer la réalité pour la rendre significative.",
+                "mot1": "intelligent",
+                "mot2": "bête",
+                "mot3": "drôle",
+                "reponse": "intelligent"
+                }
+
+
+
+  ]
+}
