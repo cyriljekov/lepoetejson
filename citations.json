@@ -17,6 +17,25 @@
                 "reponse": "une étoile"
                 
     },
+	{
+                "auteur": "Jean-Jacques Rousseau",
+                "phrase": "Le ....... tient la loi dans sa bourse",
+                "mot1": "le Roi",
+                "mot2": "le riche",
+                "mot3": "le magistrat",
+                "reponse": "le riche"
+                
+    },
+	{
+                "auteur": "Buffon",
+                "phrase": "Le génie n'est autre qu'une plus grande aptitude à la .......",
+                "mot1": "la persévérance",
+                "mot2": "la patience",
+                "mot3": "la création",
+                "reponse": "la patience"
+                
+    },
+	
     {
                 "auteur": "Albert Camus",
                 "phrase": "Qu'est-ce que ....... sinon l'accord vrai entre un homme et l'existence qu'il mène ?",
